@@ -18,8 +18,6 @@ I specialized on high availability, scalable and performant **CRM**, **ERP** and
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Otisz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otisz/Otisz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otisz/Otisz/output/github-snake.svg" />
